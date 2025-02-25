@@ -57,8 +57,7 @@ jspm_packages/
 .nuxt
 
 # Gatsby files
-.cache/
-public
+
 
 # Vuepress build output
 .vuepress/dist
@@ -78,3 +77,5 @@ public
 # Temporary folders
 tmp/
 temp/
+ 
+ 3. Create a new file called  .env  in the root of the project and add the following content:
